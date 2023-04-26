@@ -1,1 +1,1 @@
-require("./Problem1/problem1")
+require("./Problem 2/reverseArray")
